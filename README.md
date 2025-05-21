@@ -1,5 +1,7 @@
 # Tic Tac Toe Android App
 
+![](https://github.com/mlorenc2021/TicTacToe-App/blob/master/download.gif)
+
 This is a simple 2-player Tic Tac Toe game developed for Android. The app features a dynamic UI built programmatically and basic game logic to determine win, tie, and ongoing game states.
 
 ## Features
@@ -37,9 +39,3 @@ This is a simple 2-player Tic Tac Toe game developed for Android. The app featur
 <string name="dialog_yes">Yes</string>
 <string name="dialog_no">No</string>
 ```
-## Screenshots
-
-![Image](https://github.com/user-attachments/assets/fc583387-c876-478f-af0e-28d57d7dff0a)
-![Image](https://github.com/user-attachments/assets/a2537645-aa7b-4641-85bd-9615e76ff961)
-![Image](https://github.com/user-attachments/assets/9eb03578-eca8-4b3b-91a0-e102fa1ba7da)
-![Image](https://github.com/user-attachments/assets/f6b614b0-da6a-4087-aa28-b0483ea0baba)
